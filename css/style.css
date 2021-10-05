@@ -1,0 +1,17 @@
+
+
+body{
+  background-color: pink;
+}
+
+h1{
+ font-family: sans-serif;
+ text-align: center;
+}
+
+.video {
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
